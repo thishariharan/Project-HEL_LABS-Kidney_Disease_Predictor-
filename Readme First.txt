@@ -9,7 +9,14 @@ It is made with SKLearn, TKinter, SQLite3, and more
 For this, open the folder in VSCode
 
 Then go to terminal,
-	Include all the required libraries for the whole application to run
+	Install all the required libraries for the whole application to run
+	
+	1 - pip install pandas scikit-learn
+	2 - pip install openpyxl
+	3 - pip install pysqlite3
+
+	4 - Install VS Code extensions : SQLite Viewer, SQLite Explorer, SQLite Database
+
 
 
 
